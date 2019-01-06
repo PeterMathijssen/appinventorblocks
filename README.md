@@ -3,4 +3,4 @@ SVG versions of the App Inventorblocks to be used in tutorials or in the classro
 
 ![What is this](allblocks.png)
 
-![What is this](Selection_999(210).png)
+![What is this](license.png)
