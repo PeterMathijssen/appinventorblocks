@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="76.829323mm"
+   height="40.954384mm"
+   viewBox="0 0 76.829325 40.954387"
+   version="1.1"
+   id="svg2283"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="control_break.svg">
+  <defs
+     id="defs2277" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1109.6863"
+     inkscape:cy="-476.28712"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2280">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(378.27118,-526.14707)">
+    <g
+       id="g2308"
+       inkscape:export-filename="/home/peter/allblocks.png"
+       inkscape:export-xdpi="42.094723"
+       inkscape:export-ydpi="42.094723"
+       transform="matrix(0.62226092,0,0,-0.62226092,597.14465,1681.5293)">
+      <path
+         style="fill:#b68a45;fill-opacity:1;stroke:#927038;stroke-width:5.42624998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1447.077,1793.664 0.2841,60.0586 -24.2339,0.3131 c -23.3401,0 -18.1802,0 -41.5203,0 -5.6554,0 -10.8751,-10.502 -15.5717,-10.503 -4.6967,0 -8.8704,10.497 -12.434,10.497 h -8.7734 c 0,0 -16.3591,0.6504 -15.4642,-15.1032 l 0.01,-15.0958 0.01,-15.0958 c -0.8803,-14.438 15.4785,-15.0884 15.4785,-15.0884 h 8.7734 12.434 15.5717 c 23.3401,0 18.1802,0 41.5203,0 z"
+         id="path2243"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccsscccccssccc" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path2245"
+         d="m -1448.649,1796.2542 0.3246,0.3249 -0.7251,54.8158 -63.174,0.3185 c 14.4718,-26.6064 43.2017,-46.638 57.6305,-55.3436 z"
+         style="fill:#ccac78;fill-opacity:1;stroke:none;stroke-width:5.42624998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.33531046;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2247"
+         width="46.330078"
+         height="4.0328164"
+         x="-1446.7123"
+         y="-1861.0322"
+         transform="matrix(0.9999721,0.00747001,0.02696542,-0.99963637,0,0)"
+         ry="2.0164082"
+         rx="4.0446839" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55853653px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.01206446"
+         x="-1504.4481"
+         y="-1809.2605"
+         id="text2253"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan2251"
+           x="-1504.4481"
+           y="-1809.2605"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PAGRevolucionW00-Regular;-inkscape-font-specification:PAGRevolucionW00-Regular;fill:#ffffff;stroke-width:2.01206446">break</tspan></text>
+    </g>
+  </g>
+</svg>
