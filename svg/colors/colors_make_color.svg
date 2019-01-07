@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="743.09613"
-     inkscape:cy="385.94439"
+     inkscape:zoom="0.80317164"
+     inkscape:cx="759.67735"
+     inkscape:cy="227.14286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,7 +85,7 @@
            x="-932.08215"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55853653px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.01206446"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PAGRevolucionW00-Regular;-inkscape-font-specification:PAGRevolucionW00-Regular;fill:#ffffff;stroke-width:2.01206446"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Digitalt;-inkscape-font-specification:Digitalt;fill:#ffffff;stroke-width:2.01206446"
              y="-418.2887"
              x="-932.08215"
              id="tspan1320"
@@ -173,7 +173,7 @@
            x="-840.94592"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55853653px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.01206446"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:PAGRevolucionW00-Regular;-inkscape-font-specification:PAGRevolucionW00-Regular;fill:#ffffff;stroke-width:2.01206446"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Digitalt;-inkscape-font-specification:Digitalt;fill:#ffffff;stroke-width:2.01206446"
              y="153.58397"
              x="-840.94592"
              id="tspan3005"
@@ -242,7 +242,7 @@
              id="tspan3068"
              x="-1309.3204"
              y="-763.71552"
-             style="font-size:37.55800247px;stroke-width:0.75">255</tspan></text>
+             style="font-size:37.55800247px;stroke-width:0.75;-inkscape-font-specification:Digitalt;font-family:Digitalt;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">255</tspan></text>
         <rect
            rx="2.2686081"
            ry="1.9705567"
@@ -286,7 +286,7 @@
            x="-1309.3204"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
            xml:space="preserve"><tspan
-             style="font-size:37.55800247px;stroke-width:0.75"
+             style="font-size:37.55800247px;stroke-width:0.75;-inkscape-font-specification:Digitalt;font-family:Digitalt;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
              y="-763.71552"
              x="-1309.3204"
              id="tspan3135"
@@ -338,7 +338,7 @@
              id="tspan3149"
              x="-1309.3204"
              y="-763.71552"
-             style="font-size:37.55800247px;stroke-width:0.75">0</tspan></text>
+             style="font-size:37.55800247px;stroke-width:0.75;-inkscape-font-specification:Digitalt;font-family:Digitalt;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">0</tspan></text>
         <rect
            rx="2.2686081"
            ry="1.9705567"
