@@ -15,7 +15,7 @@
    version="1.1"
    id="svg2283"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="text_compare_text_smaller.svg">
+   sodipodi:docname="text_compare_texts_smaller.svg">
   <defs
      id="defs2277" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1017.1693"
+     inkscape:cx="297.1693"
      inkscape:cy="726.95364"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,7 +112,7 @@
          x="-2895.0913"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55853653px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.01206446"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:PAGRevolucionW00-Regular;-inkscape-font-specification:PAGRevolucionW00-Regular;fill:#333333;stroke-width:2.01206446"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Digitalt;-inkscape-font-specification:Digitalt;fill:#333333;stroke-width:2.01206446"
            y="-3416.5125"
            x="-2895.0913"
            id="tspan2414"
@@ -128,7 +128,7 @@
            id="tspan2418"
            x="-3157.5913"
            y="-3419.8403"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55800247px;font-family:PAGRevolucionW00-Regular;-inkscape-font-specification:PAGRevolucionW00-Regular;fill:#ffffff;stroke-width:2.01206446">compare texts</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.55800247px;font-family:Digitalt;-inkscape-font-specification:Digitalt;fill:#ffffff;stroke-width:2.01206446">compare texts</tspan></text>
     </g>
   </g>
 </svg>
